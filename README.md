@@ -5,7 +5,7 @@ A full-stack Online Bookstore web application developed using Java Spring Boot f
 ## Features
 
 - View available books
-- Add new books
+- Add new books to stores
 - Update book details
 - Delete books
 - REST API integration
