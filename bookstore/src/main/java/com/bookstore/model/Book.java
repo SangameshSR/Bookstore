@@ -10,7 +10,6 @@ public class Book {
 
     public Book() {
     }
-
     public Book(int id, String title,
                 String author,
                 double price,
